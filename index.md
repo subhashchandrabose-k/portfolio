@@ -8,4 +8,4 @@ Taking Skin Disease Prediction as a Use Case, we will understand how Ensembling 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/subhashchandrabose-k/skin-disease-prediction)
 
-<center><img src="images/financial_modeling.jpg"/></center>
+<center><img src="assets/img/financial_modeling.jpg"/></center>
